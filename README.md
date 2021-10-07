@@ -1,12 +1,12 @@
 # JavaScript
 
+test
 ![Issues](https://img.shields.io/github/issues/akshitagit/JavaScript)
 ![Pull Requests](https://img.shields.io/github/issues-pr/akshitagit/JavaScript)
 ![Forks](https://img.shields.io/github/forks/akshitagit/JavaScript)
 ![Stars](https://img.shields.io/github/stars/akshitagit/JavaScript)
 
-
-# REPOSITORY MAINTAINER : ![AKSHITA GUPTA](https://github.com/akshitagupta15june) 
+# REPOSITORY MAINTAINER : ![AKSHITA GUPTA](https://github.com/akshitagupta15june)
 
 ## Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
 
